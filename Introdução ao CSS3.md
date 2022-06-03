@@ -128,4 +128,8 @@ Background-color: Codigo hexadecimal da cor
 
 ​	Para usar uma imagem como marcador.
 
-- list-style-image: url("url da imagem");
+- list-style-image: url("url da imagem
+
+#### Inserir CSS em HTML
+
+< link rel = "stylesheet" hrel = "caminho para o arquivo css" />
